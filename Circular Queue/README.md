@@ -10,7 +10,7 @@ is a linear data structure in which the operations are performed based on FIFO (
 ## Functions implemented :
 * **EnQueue** : Adds an item in the queue. If the queue is full, then it is said to be a Queue Overflow.
 * **DeQueue** : Removes an item from the queue. If the queue is empty, then it is said to be an Empty Queue.
-* **IsFull** : Returns True if the queue is Full, else False (Note : queue implementation using linked list has no Isfull function as it is dynamic memory allocation).
+* **IsFull** : Returns True if the queue is Full, else False (*Note : queue implementation using linked list has no Isfull function as it is dynamic memory allocation*).
 * **IsEmpty** : Returns True if the queue is Empty, else False.
 
 
