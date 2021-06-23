@@ -1,5 +1,5 @@
 ## Stack
-Stack is a linear data structure which follows a particular order (LIFO) in which the operations are performed 
+is a linear data structure which follows a particular order (LIFO) in which the operations are performed 
 
 ## Applications of Stack 
 * Memory Management
